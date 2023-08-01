@@ -8,11 +8,11 @@
   ![image](https://user-images.githubusercontent.com/87076425/178909422-8e49ae94-bdfb-477c-b001-f4b6b66480ef.png)
 
 # Language used:
-  1) Reactjs
-  2) Redux
+  1. HTML
+  2. CSS
+  3. JavaScript
+  4. ReactJs
   
-### `visit`
-https://denver04.github.io/Aimore/
 
 # Note
 Responsiveness is not been added
